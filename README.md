@@ -33,11 +33,6 @@ Users can check in every day and maintain streaks based on consecutive habit com
 pip install streamlit
 streamlit run ui.py
 
-
-## Team 
-  This project was developed as a team practice project.
-  . Salma Ibrahim
-  . Raghad El-Tabakh
 ```bash
 pip install streamlit
 streamlit run app.py
