@@ -29,9 +29,9 @@ Users can check in every day and maintain streaks based on consecutive habit com
 ---
 
 ## How to Run
-   ''' bash
-  pip install streamlit
-  streamlit run ui.py
+ ```bash
+pip install streamlit
+streamlit run ui.py
 
 
 ## Team 
